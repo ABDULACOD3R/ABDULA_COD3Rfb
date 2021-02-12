@@ -1,4 +1,4 @@
-# ABDULA_COD3Rfb
+k# ABDULA_COD3Rfb
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
 for n in range(100000):
